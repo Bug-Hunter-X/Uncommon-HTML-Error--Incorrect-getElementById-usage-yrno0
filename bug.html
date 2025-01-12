@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Uncommon HTML Bug</title>
+</head>
+<body>
+  <div id="myDiv"></div>
+  <script>
+    //This is wrong way to access element and will cause error
+    document.getElementById.myDiv.innerHTML = "Hello, world!"; 
+  </script>
+</body>
+</html>
