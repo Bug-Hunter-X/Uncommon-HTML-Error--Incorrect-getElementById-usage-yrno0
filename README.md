@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in HTML: the incorrect usage of the `getElementById` method. The `bug.html` file shows the problematic code, resulting in a runtime error. The corrected version is provided in `bugSolution.html`, illustrating the proper syntax and approach.
